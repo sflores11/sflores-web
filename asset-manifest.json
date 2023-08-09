@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sflores-web/static/css/main.073c9b0a.css",
-    "main.js": "/sflores-web/static/js/main.173825c8.js",
-    "static/js/787.6f0453fb.chunk.js": "/sflores-web/static/js/787.6f0453fb.chunk.js",
-    "static/media/logo.svg": "/sflores-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/sflores-web/index.html",
-    "main.073c9b0a.css.map": "/sflores-web/static/css/main.073c9b0a.css.map",
-    "main.173825c8.js.map": "/sflores-web/static/js/main.173825c8.js.map",
-    "787.6f0453fb.chunk.js.map": "/sflores-web/static/js/787.6f0453fb.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.3104d425.js",
+    "static/js/787.6f0453fb.chunk.js": "/static/js/787.6f0453fb.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.3104d425.js.map": "/static/js/main.3104d425.js.map",
+    "787.6f0453fb.chunk.js.map": "/static/js/787.6f0453fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.173825c8.js"
+    "static/js/main.3104d425.js"
   ]
 }
